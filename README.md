@@ -4,8 +4,8 @@
 
 kagge의 hotel booking demand 데이터셋을 활용한 EDA와 취소율 예측
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72251471/111891942-234e4380-8a3a-11eb-80c1-bb945a722635.png" />
-  <img src="https://user-images.githubusercontent.com/72251471/111891945-25180700-8a3a-11eb-9fbe-ffcd8810fb28.png" />
+  <img src="https://user-images.githubusercontent.com/72251471/111891942-234e4380-8a3a-11eb-80c1-bb945a722635.png" width = "500"/>
+  <img src="https://user-images.githubusercontent.com/72251471/111891945-25180700-8a3a-11eb-9fbe-ffcd8810fb28.png" width = "500"/>
 </p>
 
 
